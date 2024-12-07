@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "366039963204",
+    "project_id": "final-moon-cycle-bbf6b",
+    "storage_bucket": "final-moon-cycle-bbf6b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366039963204:android:6d5eddcfba52819a038e11",
+        "android_client_info": {
+          "package_name": "com.example.final_moon_cycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu0Lqu80UbO7v9yhbuFzWOadCKS3v29Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
